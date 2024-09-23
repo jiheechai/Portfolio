@@ -2,4 +2,19 @@ body {
   background-color: black;
   color: white;
   margin: 0;
+  font-family: "GongGothicLight";
+}
+
+@font-face {
+  font-family: "GongGothicMedium";
+  src: url("../fonts/esamanru\ Medium.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GongGothicLight";
+  src: url("../fonts/esamanru\ Light.ttf") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
