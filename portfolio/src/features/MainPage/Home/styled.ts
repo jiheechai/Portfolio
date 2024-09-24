@@ -8,6 +8,7 @@ export const HomeStyledComponent = styled.div`
   text-align: center;
   justify-content: center;
   font-size: 5em;
+  font-family: "GongGothicLight";
 
   //첫화면(홈) 글자 애니메이션
   .fade-in {

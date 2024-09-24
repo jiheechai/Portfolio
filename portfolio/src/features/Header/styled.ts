@@ -4,10 +4,12 @@ export const HeaderStyledComponent = styled.div`
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   .headerWrapbox {
+    z-index: 100;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     position: fixed;
-    padding: 3% 5%;
+    padding: 2% 5%;
     top: 0;
     align-items: center;
     height: 70px;

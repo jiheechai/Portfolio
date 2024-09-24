@@ -1,8 +1,11 @@
+html,
 body {
+  /* width: 100%; */
+  /* overflow-x: hidden; */
   background-color: black;
   color: white;
   margin: 0;
-  font-family: "GongGothicLight";
+  padding: 0;
 }
 
 @font-face {
